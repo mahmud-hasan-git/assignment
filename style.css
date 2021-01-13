@@ -1,9 +1,9 @@
 body{
-    margin: 0%;
-    font-family: 'Berkshire Swash', cursive;
+    
+    font-family: 'Poppins', sans-serif;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 p{
     color: dimgray;
